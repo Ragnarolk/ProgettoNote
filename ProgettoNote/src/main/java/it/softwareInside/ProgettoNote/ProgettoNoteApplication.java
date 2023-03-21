@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProgettoNoteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProgettoNoteApplication.class, args);
+		SpringApplication.run(ProgettoNoteApplication.class, args)
 	}
 
 }
